@@ -407,6 +407,24 @@ footer {
     padding: 2rem;
     text-align: center;
 }
+
+.grid-all-albums{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: 20px;
+    width: 200px;
+}
+
+
+
+.grid-all-albums img, .grid-doubles-albums img{
+    width:200px;
+    height: auto;
+    border-left: 10px solid rgba(236, 200, 132, 0.7);
+    border-radius: 18px;
+    
+}
+
 }
 
 
