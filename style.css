@@ -66,11 +66,11 @@ header {
 .burger-icon:hover span {
     background-color: black;
 }
-
+/*
 .burger-icon:hover {
     background-color: rgba(236, 200, 132, 0.7);
 }
-
+*/
 
 .nav-links {
     display: flex;
